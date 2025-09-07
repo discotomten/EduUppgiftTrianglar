@@ -25,7 +25,7 @@ public static class Triangle3
             }
 
             Console.Write($"{line}\n");
-            
+
         }
         return "";
     }
